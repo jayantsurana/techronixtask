@@ -1,4 +1,5 @@
 ## Web Development Task
+Basic Layout of web design using HTML and CSS.
 
 ## LICENSE
 
